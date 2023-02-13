@@ -1,0 +1,11 @@
+teacherId,teacherName,email,phoneNumber,gender,qualification,subjects,salary,DOB
+10001,Mallikharjun,Mallik0@gmail.com,9666444551,Male,Msc.computers,java,30000,02/05/1889
+10002,Lalitha,Lalitha@gmail.com,9000444343,female,MA.English,"Work place readiness",30000,05/05/1885
+10003,Manoj,Manoj@gmail.com,9557844343,Male,MSC.Computers,computers,30000,04/04/1881
+10004,Sarath,sarath3@gmail.com,8957844343,Male,Mathematics,statastical,32000,05/03/1889
+10005,Rahul,Rahul3@gmail.com,945844343,Male,science,science,33000,10/03/1897
+10006,shalini,Shalini3@gmail.com,978394343,Female,"Bsc Computers",Computers,20000,04/06/1995
+10007,Dhamini,Dhamini9@gmail.com,888394343,Female,"Msc Computers",Computers,20000,05/02/1885
+10008,Nihal,nihal9@gmail.com,9883945520,Male,"Bcom Computers",Computers,30000,11/04/1885
+10009,Nivetha,nivetha9@gmail.com,8883945520,Female,Mtech,Computers,20000,12/05/1995
+10010,"Subhan bee bee",subhan@gmail.com,9533945525,Female,Mtech,Computers,30000,11/03/1889
